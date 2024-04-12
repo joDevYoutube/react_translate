@@ -34,7 +34,7 @@ i18n
 export default i18n;    
 ```
 
-Dentro da pasta locales, adiciona uma estrutura de json parecido com isso. A o campo "translation é obrigatório"
+Dentro da pasta locales, adiciona uma estrutura de json parecido com isso. O campo "translation é obrigatório"
 ```json
 {
     "translation": {
